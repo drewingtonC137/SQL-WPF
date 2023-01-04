@@ -1,0 +1,16 @@
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\bin\Debug\WPFSQLZOO4.exe.config
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\bin\Debug\WPFSQLZOO4.exe
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\bin\Debug\WPFSQLZOO4.pdb
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.csproj.AssemblyReference.cache
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.csproj.SuggestedBindingRedirects.cache
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\MainWindow.g.cs
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\App.g.cs
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4_MarkupCompile.cache
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4_MarkupCompile.lref
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\MainWindow.baml
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.g.resources
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.Properties.Resources.resources
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.csproj.GenerateResource.cache
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.csproj.CoreCompileInputs.cache
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.exe
+C:\Users\amjje\Desktop\Work\YoungCapital\Projects\WPFSQLZOO4\WPFSQLZOO4\obj\Debug\WPFSQLZOO4.pdb
